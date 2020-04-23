@@ -5,7 +5,7 @@
 - вставлені рисунки (скріншоти екрана або фотографії виконаного завдання у зошиті);
 > якщо графічних файлів багато то краще помістити їх у окрему папку.
 
-    ![alt text](https://github.com/BobasB/lab_example/blob/master/lab_report_example/graph.gif "Тестовий граф")
+![alt text](https://github.com/BobasB/lab_example/blob/master/lab_report_example/graph.gif "Тестовий граф")
 
 - вставлений код / текстовий або числовий результат / інші результати:
 ```python
