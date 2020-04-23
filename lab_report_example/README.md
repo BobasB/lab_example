@@ -4,7 +4,7 @@
 - результати виконання завдання *1...N*;
 - вставлені рисунки;
 
-    ![alt text](https://github.com/BobasB/devops_course/blob/master/lab_1/edite_file.png "Тестовий граф")
+    ![alt text](https://github.com/BobasB/lab_example/blob/master/lab_report_example/graph.gif "Тестовий граф")
 
 - вставлений код або текстовий результат:
 ```python
