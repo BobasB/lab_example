@@ -17,7 +17,7 @@
 | Олег Ковалишин |:white_check_mark:|:white_check_mark:|:three::zero:|
 | Василь Кость |:white_check_mark:||:two::five:|
 | Остап Лещишин ||||
-| Мар'ян Лижичка ||||
+| Мар'ян Лижичка |:white_check_mark:||:two::four:|
 | Роман Ліуш |:white_check_mark:||:two::six:|
 | Олег Ложинський |:white_check_mark:||:two::five:|
 | Дмитро Макаруха |:white_check_mark:|:white_check_mark:|:three::zero:|
@@ -35,12 +35,12 @@
 | Василь Степанов |:white_check_mark:||:two::six:|
 | Богдан Степанченко |:white_check_mark:||:two::five:|
 | Володимир Фялковський |:white_check_mark:||:two::five:|
-| Ігор Хлопотін ||||
+| Ігор Хлопотін |:white_check_mark:||:two::four:|
 | Андрій Холявка |:white_check_mark:||:three::zero:|
 | Олексій Шах |:white_check_mark:||:two::six:|
 | Борис Шептицький ||||
 | Олександр Шеремета |:white_check_mark:||:two::five:|
-| Михайло Щенніков ||||
+| Михайло Щенніков |:white_check_mark:||:two::four:|
 | Остап Щербан |:white_check_mark:||:two::six:|
 
 
