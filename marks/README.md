@@ -3,7 +3,7 @@
 | Прізвище              | pass | readme | mark |
 | :-------------------- |:----:| :-----:| :---:|
 | Денис Андросович | | | |
-| Ольга Бабій |:white_check_mark:|:white_check_mark:||
+| Ольга Бабій |:white_check_mark:|:white_check_mark:|:three::zero:|
 | Софія Базів |:white_check_mark:|:white_check_mark:||
 | Ростислав Борецький |:white_check_mark:|:white_check_mark:||
 | Остап Василиця ||||
@@ -47,5 +47,7 @@
 ## Пояснення
 :white_check_mark: - зараховано;
 :x: - не зараховано;
+:three::zero: - 
+:two::six:
 
 
