@@ -43,6 +43,7 @@
 | Михайло Щенніков |:white_check_mark:||:two::four:|
 | Остап Щербан |:white_check_mark:||:two::six:|
 | Пипич Ілля |:white_check_mark:||:two::zero:|
+| Роман Трач |:white_check_mark:||:two::zero:|
 
 
 
