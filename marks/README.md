@@ -44,6 +44,11 @@
 | Остап Щербан |:white_check_mark:||:two::six:|
 | Пипич Ілля |:white_check_mark:||:two::zero:|
 | Роман Трач |:white_check_mark:||:two::zero:|
+| Максим Салій  |:white_check_mark:||:one::five:|
+| Володимир Гутчак |:white_check_mark:||:one::two:|
+| Андрій Рижак |:white_check_mark:||:one::two:|
+| Денис Андросович |:white_check_mark:||:one::two:|
+
 
 
 
