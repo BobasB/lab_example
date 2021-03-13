@@ -4,7 +4,9 @@
 
 ## Підготовка: _Визначення теорії графів_
 
-![alt text](https://github.com/BobasB/lab_example/tree/master/lab_guidance/2_/test_view_graph.png "Graph")
+![alt text][grapth]
+
+[grapth]: https://github.com/BobasB/lab_example/tree/master/lab_guidance/2_/test_view_graph.png "Graph"
 
 _Ексцентриситет вершини_ — максимальна з відстаней від даної вершини до будь-якої іншої вершини.
 _Радіус графа_ — мінімальний з ексцентриситетів вершин зв'язаного графа; вершина, на якій досягається цей мінімум називається центральною вершиною.
