@@ -55,5 +55,11 @@
 1. Побудувати дерево шляхів рангом `r=4` для випадкового графа `G={6,9}`.
 
 1. Побудувати мінімальне зв’язне дерево для графа `G`. Вказати його вагу.
-![alt text](https://github.com/BobasB/lab_example/blob/master/lab_guidance/3_/images/grapth.png "Знайти вагу графа")
+
+![alt text](https://github.com/BobasB/lab_example/blob/master/lab_guidance/3_/images/graph.png "Знайти вагу графа")
+
+## Здача роботи
+1. Оформити звіт лабораторної роботи. Звіт повинен бути у файлі `README.md` та завантажений у репозиторій GitHub.
+1. URL посилання на виконану роботу вставити у відповідне завдання у Google Classroom.
+
 ---
