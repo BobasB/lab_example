@@ -7,7 +7,7 @@
 ## [3. Методи обходу та модифікації графів ](https://github.com/BobasB/lab_example/tree/master/lab_guidance/3_) 
 > Deadline: 02.05.2021
 ## [4. Алгоритми пошуку найкоротших шляхів ](https://github.com/BobasB/lab_example/tree/master/lab_guidance/4_)
-> Deadline:
-## [5. ](https://github.com/BobasB/lab_example/tree/master/lab_guidance/5_)
-> Deadline:
+> Deadline: 16.05.2021
+## [5. Визначення максимального потоку ](https://github.com/BobasB/lab_example/tree/master/lab_guidance/5_)
+> Deadline: 30.05.2021
 ---
