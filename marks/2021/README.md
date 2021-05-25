@@ -15,22 +15,22 @@
 | Назарій Заяць     |:white_check_mark:|:heavy_check_mark:|:white_check_mark:||||
 | Андрій Крупський  |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||
 | Дмитро Гелета     |:heavy_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||
-| Андрій Козиняк    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||||
+| Андрій Козиняк    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|||
 | Юрій Ярошевський  |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:||
 | Богдан Сеник      |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:||
 | Назар Шах         |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|||
 | Максим Вовк       |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|||
-| Катерина Бесага   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||||
-| Тарас Княжик      |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||||
-| Юрій Андрейчук    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||||
-| Дмитро Белена     |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||||
-| Богдан Гусяк      |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||||
-| Денис Матійців    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||||
-| Юрій Саврун       |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||||
-| Андрій Филипишин  |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||||
+| Катерина Бесага   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|||
+| Тарас Княжик      |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|||
+| Юрій Андрейчук    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|||
+| Дмитро Белена     |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|||
+| Богдан Гусяк      |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|||
+| Денис Матійців    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|||
+| Юрій Саврун       |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|||
+| Андрій Филипишин  |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|||
 
 
-Зараховано, але без захисту.
+
 
 ---
 ## Пояснення
