@@ -1,34 +1,61 @@
 # Теоретичні основи ТК 2021
 
-| Прізвище          | :one: | :two: | :three: | :four: | :five: | :six: |
-| :---------------- |:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
-| Олександр Осика   |:white_check_mark:|:white_check_mark:|:heavy_check_mark:|:white_check_mark:|||
-| Володимир Пфайфер |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||
-| Сергій Пилип      |:white_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:|||
-| Олег Сало         |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||
-| Андрій Ільяш      |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||
-| Тарас Здирко      |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||
-| Руслан Борсук     |:white_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:|||
-| Данило Барабаш    |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||
-| Ярослав Ментух    |:white_check_mark:|:white_check_mark:||:white_check_mark:|||
-| Максим Горчин     |:white_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:||
-| Назарій Заяць     |:white_check_mark:|:heavy_check_mark:|:white_check_mark:||||
-| Андрій Крупський  |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||
-| Дмитро Гелета     |:heavy_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||
-| Андрій Козиняк    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:||
-| Юрій Ярошевський  |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:||
-| Богдан Сеник      |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:||
-| Назар Шах         |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|||
-| Максим Вовк       |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:||
-| Катерина Бесага   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:||
-| Тарас Княжик      |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:||
-| Юрій Андрейчук    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:||
-| Дмитро Белена     |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:||
-| Богдан Гусяк      |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:||
-| Денис Матійців    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:||
-| Юрій Саврун       |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:||
-| Андрій Филипишин  |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:||
+---
+## ТР-35
+| №   | Прізвище          | :one: | :two: | :three: | :four: | :five: | Final |
+|:--- | :---------------- |:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
+| 1   | Данило Барабаш    |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||
+| 2   | Катерина Бесага   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:||
+| 3   | Руслан Борсук     |:white_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:|||
+| 4   | Тарас Здирко      |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||
+| 5   | Тарас Княжик      |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:||
+| 6   | Христина Максим’як|||||||
+| 7   | Сергій Пилип      |:white_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:|||
+| 8   | Володимир Пфайфер |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||
+| 9   | Roland Umba       |||||||
 
+---
+## ТР-34
+| №   | Прізвище          | :one: | :two: | :three: | :four: | :five: | Final |
+|:--- | :---------------- |:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
+| 1   | Юрій Андрейчук    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:||
+| 2   | Юрій Більський    |||||||
+| 3   | Максим Вовк       |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:||
+| 4   | Дмитро Гелета     |:heavy_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||
+| 5   | Максим Горчин     |:white_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:||
+| 6   | Юрій Іванів       |||||||
+| 7   | Богдан Матіїв     |||||||
+| 8   | Ярослав Ментух    |:white_check_mark:|:white_check_mark:||:white_check_mark:|||
+| 9   | Олександр Осика   |:white_check_mark:|:white_check_mark:|:heavy_check_mark:|:white_check_mark:|||
+| 10  | Роман Романчук    |||||||
+| 11  | Богдан Сеник      |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:||
+| 12  | Андрій Тріщ       |||||||
+| 13  | Андрій Цап        |||||||
+| 14  | Назар Шах         |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|||
+| 15  | Юрій Ярошевський  |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:||
+
+---
+## ТР-32
+| Прізвище          | :one: | :two: | :three: | :four: | :five: | Final |
+| :---------------- |:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
+| Дмитро Белена     |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:||
+| Назар Борис       |||||||
+| Олег Вознікевич   |||||||
+| Ігор Григорів     |||||||
+| Богдан Гусяк      |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:||
+| Максим Дусь       |||||||
+| Назарій Заяць     |:white_check_mark:|:heavy_check_mark:|:white_check_mark:||||
+| Андрій Ільяш      |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||
+| Андрій Козиняк    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:||
+| Андрій Крупський  |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||
+| Роман Маслюк      |||||||
+| Денис Матійців    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:||
+| Михайло Павлюк    |||||||
+| Юрій Саврун       |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:||
+| Олег Сало         |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||
+| Василь Сербан     |||||||
+| Андрій Сколоздра  |||||||
+| Андрій Филипишин  |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:||
 
 
 ---
