@@ -19,17 +19,17 @@
 | №   | Прізвище          | :one: | :two: | :three: | :four: | :five: | Final |
 |:--- | :---------------- |:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
 | 1   | Юрій Андрейчук    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:||
-| 2   | Юрій Більський    |:heavy_check_mark:|:heavy_check_mark:|||||
+| 2   | Юрій Більський    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||||
 | 3   | Максим Вовк       |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:||
 | 4   | Дмитро Гелета     |:heavy_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||
 | 5   | Максим Горчин     |:white_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:||
-| 6   | Юрій Іванів       |:heavy_check_mark:|:heavy_check_mark:|||||
+| 6   | Юрій Іванів       |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||||
 | 7   | Богдан Матіїв     |||||||
-| 8   | Ярослав Ментух    |:white_check_mark:|:white_check_mark:||:white_check_mark:|||
+| 8   | Ярослав Ментух    |:white_check_mark:|:white_check_mark:|:heavy_check_mark:|:white_check_mark:|||
 | 9   | Олександр Осика   |:white_check_mark:|:white_check_mark:|:heavy_check_mark:|:white_check_mark:|||
 | 10  | Роман Романчук    |||||||
 | 11  | Богдан Сеник      |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:||
-| 12  | Андрій Тріщ       |:heavy_check_mark:|:heavy_check_mark:|||||
+| 12  | Андрій Тріщ       |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||||
 | 13  | Андрій Цап        |||||||
 | 14  | Назар Шах         |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|||
 | 15  | Юрій Ярошевський  |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:||
@@ -53,8 +53,8 @@
 | Михайло Павлюк    |||||||
 | Юрій Саврун       |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:||
 | Олег Сало         |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||
-| Василь Сербан     |:heavy_check_mark:|:heavy_check_mark:|||||
-| Андрій Сколоздра  |:heavy_check_mark:|:heavy_check_mark:|||||
+| Василь Сербан     |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||||
+| Андрій Сколоздра  |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||||
 | Андрій Филипишин  |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:||
 
 
