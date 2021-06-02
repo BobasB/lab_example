@@ -9,7 +9,7 @@
 | 3   | Руслан Борсук     |:white_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:two::seven:|
 | 4   | Тарас Здирко      |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:three::zero:|
 | 5   | Тарас Княжик      |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:|:two::one:|
-| 6   | Христина Максим’як|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|-|
+| 6   | Христина Максим’як|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:one::five:|
 | 7   | Сергій Пилип      |:white_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:two::seven:|
 | 8   | Володимир Пфайфер |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:three::zero:|
 | 9   | Roland Umba       |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:one::eight:|
@@ -39,7 +39,7 @@
 | Прізвище          | :one: | :two: | :three: | :four: | :five: | Final |
 | :---------------- |:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
 | Дмитро Белена     |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:|:two::one:|
-| Назар Борис       |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|-|
+| Назар Борис       |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:one::five:|
 | Олег Вознікевич   |||||||
 | Ігор Григорів     |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:one::eight:|
 | Богдан Гусяк      |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:|:two::one:|
@@ -48,9 +48,9 @@
 | Андрій Ільяш      |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:three::zero:|
 | Андрій Козиняк    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:|:two::one:|
 | Андрій Крупський  |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:three::zero:|
-| Роман Маслюк      |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||
+| Роман Маслюк      |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:one::five:|
 | Денис Матійців    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:|:two::one:|
-| Михайло Павлюк    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||
+| Михайло Павлюк    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:one::five:|
 | Юрій Саврун       |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:|:two::one:|
 | Олег Сало         |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:three::zero:|
 | Василь Сербан     |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:one::eight:|
@@ -65,5 +65,5 @@
 - :x: - не зараховано;
 - пусто - нічого ще не здано;
 - :three::zero: - максимум, хто не полінився і зробив через README і Markdown;
-- :two::seven: / :two::four: / :two::one: / :one::eight: ;
+- :two::seven: / :two::four: / :two::one: / :one::eight: / :one::five: / ;
 - :zero: - не здав нічого;
