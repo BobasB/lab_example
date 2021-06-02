@@ -21,8 +21,8 @@
 | 1   | Юрій Андрейчук    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:||
 | 2   | Юрій Більський    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:||
 | 3   | Максим Вовк       |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:||
-| 4   | Дмитро Гелета     |:heavy_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||
-| 5   | Максим Горчин     |:white_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:||
+| 4   | Дмитро Гелета     |:heavy_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:two::seven:|
+| 5   | Максим Горчин     |:white_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:|:two::four:|
 | 6   | Юрій Іванів       |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:||
 | 7   | Богдан Матіїв     |||||||
 | 8   | Ярослав Ментух    |:white_check_mark:|:white_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:|:two::seven:|
@@ -44,7 +44,7 @@
 | Ігор Григорів     |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:||
 | Богдан Гусяк      |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:||
 | Максим Дусь       |||||||
-| Назарій Заяць     |:white_check_mark:|:heavy_check_mark:|:white_check_mark:|:heavy_check_mark:|:white_check_mark:||
+| Назарій Заяць     |:white_check_mark:|:heavy_check_mark:|:white_check_mark:|:heavy_check_mark:|:white_check_mark:|:two::four:|
 | Андрій Ільяш      |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:three::zero:|
 | Андрій Козиняк    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:||
 | Андрій Крупський  |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:three::zero:|
