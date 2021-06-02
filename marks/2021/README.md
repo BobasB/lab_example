@@ -64,6 +64,6 @@
 - :heavy_check_mark: - робота здана, захист не зараховано;
 - :x: - не зараховано;
 - пусто - нічого ще не здано;
-- :three::zero: - максимум, хто не полінився і зробив через README і Markdown;
-- :two::seven: / :two::four: / :two::one: / :one::eight: / :one::five: / ;
+- :three::zero: - максимум, хто не полінився і робив все вчасно через README/Markdown;
+- :two::seven: / :two::four: / :two::one: / :one::eight: / :one::five: - компроміс;
 - :zero: - не здав нічого;
