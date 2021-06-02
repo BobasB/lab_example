@@ -24,13 +24,13 @@
 | 4   | Дмитро Гелета     |:heavy_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:two::seven:|
 | 5   | Максим Горчин     |:white_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:|:two::four:|
 | 6   | Юрій Іванів       |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:one::eight:|
-| 7   | Богдан Матіїв     |||||||
+| 7   | Богдан Матіїв     ||||||?|
 | 8   | Ярослав Ментух    |:white_check_mark:|:white_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:|:two::seven:|
 | 9   | Олександр Осика   |:white_check_mark:|:white_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:|:two::seven:|
-| 10  | Роман Романчук    |||||||
+| 10  | Роман Романчук    ||||||?|
 | 11  | Богдан Сеник      |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:|:two::one:|
 | 12  | Андрій Тріщ       |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:one::eight:|
-| 13  | Андрій Цап        |||||||
+| 13  | Андрій Цап        ||||||?|
 | 14  | Назар Шах         |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|||
 | 15  | Юрій Ярошевський  |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:|:two::one:|
 
@@ -40,10 +40,10 @@
 | :---------------- |:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
 | Дмитро Белена     |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:|:two::one:|
 | Назар Борис       |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:one::five:|
-| Олег Вознікевич   |||||||
+| Олег Вознікевич   ||||||?|
 | Ігор Григорів     |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:one::eight:|
 | Богдан Гусяк      |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:|:two::one:|
-| Максим Дусь       |||||||
+| Максим Дусь       ||||||?|
 | Назарій Заяць     |:white_check_mark:|:heavy_check_mark:|:white_check_mark:|:heavy_check_mark:|:white_check_mark:|:two::four:|
 | Андрій Ільяш      |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:three::zero:|
 | Андрій Козиняк    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:|:two::one:|
