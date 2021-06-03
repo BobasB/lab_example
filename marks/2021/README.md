@@ -31,7 +31,7 @@
 | 11  | Богдан Сеник      |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:|:two::one:|
 | 12  | Андрій Тріщ       |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:one::eight:|
 | 13  | Андрій Цап        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:one::five:|
-| 14  | Назар Шах         |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|||
+| 14  | Назар Шах         |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:|:two::one:|
 | 15  | Юрій Ярошевський  |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:|:two::one:|
 
 ---
