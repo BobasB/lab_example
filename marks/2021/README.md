@@ -27,10 +27,10 @@
 | 7   | Богдан Матіїв     ||||||?|
 | 8   | Ярослав Ментух    |:white_check_mark:|:white_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:|:two::seven:|
 | 9   | Олександр Осика   |:white_check_mark:|:white_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:|:two::seven:|
-| 10  | Роман Романчук    ||||||?|
+| 10  | Роман Романчук    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:one::five:|
 | 11  | Богдан Сеник      |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:|:two::one:|
 | 12  | Андрій Тріщ       |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:one::eight:|
-| 13  | Андрій Цап        ||||||?|
+| 13  | Андрій Цап        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:one::five:|
 | 14  | Назар Шах         |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|||
 | 15  | Юрій Ярошевський  |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:|:two::one:|
 
@@ -43,7 +43,7 @@
 | Олег Вознікевич   ||||||?|
 | Ігор Григорів     |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:one::eight:|
 | Богдан Гусяк      |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:|:two::one:|
-| Максим Дусь       ||||||?|
+| Максим Дусь       |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:one::five:|
 | Назарій Заяць     |:white_check_mark:|:heavy_check_mark:|:white_check_mark:|:heavy_check_mark:|:white_check_mark:|:two::four:|
 | Андрій Ільяш      |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:three::zero:|
 | Андрій Козиняк    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:white_check_mark:|:white_check_mark:|:two::one:|
